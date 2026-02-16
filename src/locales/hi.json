@@ -1,0 +1,32 @@
+{
+    "app": {
+        "title": "जॉब पोर्टल",
+        "tagline": "आज ही अपनी सपनों की नौकरी पाएं"
+    },
+    "nav": {
+        "home": "होम",
+        "jobs": "नौकरियां खोजें",
+        "companies": "कंपनियां",
+        "login": "लॉग इन",
+        "signup": "साइन अप",
+        "logout": "लॉग आउट",
+        "profile": "प्रोफाइल",
+        "copilots": "को-पायलट्स",
+        "applications": "आवेदन",
+        "support": "सहायता",
+        "settings": "सेटिंग्स",
+        "saved_jobs": "सहेजी गई नौकरियां"
+    },
+    "home": {
+        "heroTitle": "अपनी सपनों की नौकरी पाएं",
+        "heroSubtitle": "हजारों नौकरियां आपका इंतजार कर रही हैं",
+        "searchPlaceholder": "नौकरी का शीर्षक, कीवर्ड...",
+        "locationPlaceholder": "स्थान",
+        "searchButton": "नौकरियां खोजें"
+    },
+    "jobs": {
+        "apply": "अभी आवेदन करें",
+        "posted": "{{days}} दिन पहले पोस्ट किया गया",
+        "salary": "वेतन"
+    }
+}

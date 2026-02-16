@@ -1,0 +1,32 @@
+{
+    "app": {
+        "title": "Job Portal",
+        "tagline": "Find your dream job today"
+    },
+    "nav": {
+        "home": "Home",
+        "jobs": "Find Jobs",
+        "companies": "Companies",
+        "login": "Login",
+        "signup": "Sign Up",
+        "logout": "Logout",
+        "profile": "Profile",
+        "copilots": "Copilots",
+        "applications": "Applications",
+        "support": "Support",
+        "settings": "Settings",
+        "saved_jobs": "Saved Jobs"
+    },
+    "home": {
+        "heroTitle": "Find Your Dream Job",
+        "heroSubtitle": "Thousands of jobs waiting for you",
+        "searchPlaceholder": "Job title, keywords...",
+        "locationPlaceholder": "Location",
+        "searchButton": "Search Jobs"
+    },
+    "jobs": {
+        "apply": "Apply Now",
+        "posted": "Posted {{days}} days ago",
+        "salary": "Salary"
+    }
+}

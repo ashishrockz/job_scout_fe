@@ -1,0 +1,32 @@
+{
+    "app": {
+        "title": "Job Portal",
+        "tagline": "Encuentra tu trabajo ideal hoy"
+    },
+    "nav": {
+        "home": "Inicio",
+        "jobs": "Buscar Empleos",
+        "companies": "Empresas",
+        "login": "Iniciar Sesión",
+        "signup": "Registrarse",
+        "logout": "Cerrar Sesión",
+        "profile": "Perfil",
+        "copilots": "Copilots",
+        "applications": "Aplicaciones",
+        "support": "Soporte",
+        "settings": "Ajustes",
+        "saved_jobs": "Trabajos Guardados"
+    },
+    "home": {
+        "heroTitle": "Encuentra tu Trabajo Ideal",
+        "heroSubtitle": "Miles de empleos esperándote",
+        "searchPlaceholder": "Título del trabajo, palabras clave...",
+        "locationPlaceholder": "Ubicación",
+        "searchButton": "Buscar Empleos"
+    },
+    "jobs": {
+        "apply": "Aplicar Ahora",
+        "posted": "Publicado hace {{days}} días",
+        "salary": "Salario"
+    }
+}

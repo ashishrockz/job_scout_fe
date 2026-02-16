@@ -1,0 +1,32 @@
+{
+    "app": {
+        "title": "Job Portal",
+        "tagline": "Finde deinen Traumjob heute"
+    },
+    "nav": {
+        "home": "Startseite",
+        "jobs": "Jobs finden",
+        "companies": "Unternehmen",
+        "login": "Anmelden",
+        "signup": "Registrieren",
+        "logout": "Abmelden",
+        "profile": "Profil",
+        "copilots": "Copilots",
+        "applications": "Bewerbungen",
+        "support": "Support",
+        "settings": "Einstellungen",
+        "saved_jobs": "Gespeicherte Jobs"
+    },
+    "home": {
+        "heroTitle": "Finde deinen Traumjob",
+        "heroSubtitle": "Tausende von Jobs warten auf dich",
+        "searchPlaceholder": "Jobtitel, Stichwörter...",
+        "locationPlaceholder": "Ort",
+        "searchButton": "Jobs suchen"
+    },
+    "jobs": {
+        "apply": "Jetzt bewerben",
+        "posted": "Vor {{days}} Tagen veröffentlicht",
+        "salary": "Gehalt"
+    }
+}
